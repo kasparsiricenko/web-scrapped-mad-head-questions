@@ -1,0 +1,17 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SiricenkoK <Kaspar.Siricenko@hmhco.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "prettier": "^2.8.8"
+  }
+}
